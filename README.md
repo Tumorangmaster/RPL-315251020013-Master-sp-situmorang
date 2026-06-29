@@ -1,14 +1,26 @@
 # RPL-315251020013-Master sp situmorang
 
-### Ientitas Mahasiswa
+# Praktikum Rekayasa Perangkat Lunak
+## Sistem Informasi Bengkel Motor
+
+## Identitas mahasiswa
+
 - Nama : Master sp situmorang
-- Nim  : 315251020013
-- Matkul : Rekayasa perangkat lunak
-- Dosen pengampu : M.AMRAN Hakim siregar,S.Tr.Kom.M.kom
+- Nim : 315251020013
+- Dosen pengampu :M.Amran Hakim Siregar,S.Tr.kom,M.Kom.
 
-## Deskripsi
-Repository dibuat untuk mengumpulkan tugas praktikum RPL PERTEMUAN 12 Dan 13 tentang git hub,pemeliharaan perangkat lunak dan arsitektur perangkat lunak
+## Deskripsi Repository
 
-## Struktur folder
--, maintenance/" : berisi maintenence plan perangkat lunak
--,architectur/"   : berisi dokumentasi architectur perangkat lunak.
+Repository ini dibuat untuk memenuhi tugas Praktikum Rekayasa Perangkat Lunak Pertemuan 12 dan 13 mengenai GitHub, Software Maintenance, dan Dokumentasi Arsitektur Perangkat Lunak dengan studi kasus Sistem Informasi Bengkel Motor.
+
+## Struktur Repository
+
+- README.md
+- maintenance/
+  - maintenance-plan.md
+- architecture/
+  - deskripsi-sistem.md
+  - quality-attributes.md
+  - arsitektur.md
+  - logical-view.md
+  - physical-view.md
