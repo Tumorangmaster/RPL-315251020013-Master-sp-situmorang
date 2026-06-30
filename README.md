@@ -1,4 +1,4 @@
-# RPL-315251020013-Master sp situmorang
+# RPL-315251020013-MasterSpSitumorang
 
 # Praktikum Rekayasa Perangkat Lunak
 ## Sistem Informasi Bengkel Motor
